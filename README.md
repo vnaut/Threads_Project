@@ -1,0 +1,2 @@
+This project demonstrates the use of multithreading to optimize operations on large arrays, which I developed as part of a multithreaded array processing system. The program creates multiple threads to perform tasks like finding the maximum element or computing the sum of an array. By dividing the array among threads, the program achieves significant performance improvements compared to single-threaded execution.
+
